@@ -29,6 +29,8 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "https://erickcisneros.github.io/angular-tour-of-heroes/",
+              "deployUrl": "https://erickcisneros.github.io/angular-tour-of-heroes/",
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
